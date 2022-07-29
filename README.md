@@ -1,16 +1,3 @@
-
-# Project description
-
-My boiler template for creating a new project.
-
-# Project template
- Used myStarterFiles
-
-# Webpack & Babel
- Used vanillaStarterFiles
-
----
-
 # Box-Shadows
 
 https://developer.mozilla.org/en-US/docs/Web/CSS/box-shadow
