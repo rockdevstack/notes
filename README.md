@@ -160,6 +160,9 @@ List of animations
 👉 https://remixicons.com
 👉 https://akveo.github.io/eva-icons/
 👉 https://ionic.io/ionicons
+👉 https://iconset.io/icons
+
+![image](https://user-images.githubusercontent.com/16950427/196579886-56ed0298-bbc8-4be0-a36b-8b1e26759850.png)
 
 
 ### Babel Webpack Generator
